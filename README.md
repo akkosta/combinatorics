@@ -1,3 +1,3 @@
 # combinatorics
-Калькулятор для формул комбинаторики на Python 3.
-Был сделан в рамках прохождения курса "Комбинаторика для начинающих" от МФТИ (https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/).
+Calculator for combinatorics formulas in Python 3.
+It was made as part of the course "Combinatorics for beginners" (https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh/).
